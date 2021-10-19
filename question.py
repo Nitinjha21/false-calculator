@@ -1,0 +1,7 @@
+print("GIVE your number that is to be divided")
+num1=int(input())
+print("give the dividend")
+num2=int(input())
+print("your remainder is ")
+r =(num1%num2)
+print(r)
